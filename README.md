@@ -1,48 +1,79 @@
-```markdown
-### Hello World! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-![](https://komarev.com/ghpvc/?username=yoa4068&label=Profile%20Visits&color=blue&style=for-the-badge)
+````markdown
+<!-- README Profile for Youssef Ashraf Abdelhamid -->
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="mailto:yoa4068@gmail.com"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<p align="left">
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="35px" alt="Hi"> <strong>Hello World!</strong>
+</p>
 
-- 🔭 I’m currently studying **Computer Science** at **Nahda University**
-- 🌱 I’m currently learning **Advanced AI**, **Deep Learning**, **Embedded Systems**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoa4068&label=Profile%20Visits&color=blue&style=flat-square" alt="Profile Views">
+</p>
+
+<p align="right">
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" width="200" alt="Side Image">
+  <a href="mailto:yoa4068@gmail.com">
+    <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="150" alt="Side Gif">
+  </a>
+</p>
+
+---
+
+## 🔭 About Me
+
+- 🎓 **Student** of Computer Science at Nahda University (Class of 2028)
+- 🌱 Learning **Advanced AI**, **Deep Learning**, **Embedded Systems**
 - 💬 Ask me about **Python**, **C++**, **AI Integration**, **Web Dev (HTML & CSS)**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and building console games!
+- ⚡ Fun fact: I build console games and solve puzzles in my free time
 
-#### 📫 How to reach me:
+---
 
-[<img src="https://img.icons8.com/fluent/48/000000/email.png" width="3.5%"/>](mailto:yoa4068@gmail.com) &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/yoa4068) &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="3.5%"/>](https://instagram.com/yoa4068)
+## 📫 Contact
 
-#### 👨🏻‍💻 Languages and Tools <br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+| Email                                          | LinkedIn                                 | Instagram                              |
+|-----------------------------------------------|-----------------------------------------|----------------------------------------|
+| <a href="mailto:yoa4068@gmail.com">📧</a>     | <a href="https://linkedin.com/in/yoa4068">🔗</a> | <a href="https://instagram.com/yoa4068">📷</a> |
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=yoa4068&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=yoa4068&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yoa4068&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=yoa4068&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+## 💻 Skills & Tools
 
-##### I am currently aiming to master AI-driven robotics 🤖. Here is an ascii tracker of my project milestones:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="TensorFlow"></code>
 
-```
+---
 
-# 🏆 Project Milestones Chart
+## 📈 GitHub Stats
 
-Milestone \t Completed
-01\. Python Basics       \t ██████████
-02\. OOP & C++          \t █████████⊗
-03\. AI Fundamentals    \t ███████⊗⊗⊗
-04\. Embedded Linux     \t ███⊗⊗⊗⊗⊗⊗
-05\. ROS2 & Robotics    \t █⊗⊗⊗⊗⊗⊗⊗⊗
-06\. Drone Integration  \t ⊗⊗⊗⊗⊗⊗⊗⊗⊗
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoa4068&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoa4068&theme=radical" alt="GitHub Streak">
+</p>
+
+---
+
+## 🏆 Achievements
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=yoa4068&theme=juicyfresh&no-frame=true&margin-w=15&no-bg=true)](https://github.com/yoa4068)
+
+---
+
+## 🚀 Project Milestones
+
+```text
+# Milestone                 | Progress
+---------------------------|---------
+01. Python Basics           | ██████████
+02. OOP & C++               | ████████□□
+03. AI Fundamentals         | █████□□□
+04. Embedded Linux          | ███□□□
+05. ROS2 & Robotics         | ██□□□
+06. Drone Integration       | □□□□
+````
 
 ```
 ```
