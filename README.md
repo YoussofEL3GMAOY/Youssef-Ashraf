@@ -28,9 +28,9 @@
 
 ## 📫 Contact
 
-| Email                                    | LinkedIn                                  | Instagram                               |
-|------------------------------------------|-------------------------------------------|-----------------------------------------|
-| <a href="mailto:yoa4068@gmail.com">📧</a> | <a href="https://www.linkedin.com/in/youssef-ashraf-alagmaoy-3a7444302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">🔗</a> | <a href="https://instagram.com/yoa4068">📷</a> |
+| Email                                    | LinkedIn                                  |
+|------------------------------------------|-------------------------------------------|
+| <a href="mailto:yoa4068@gmail.com">📧</a> | <a href="https://www.linkedin.com/in/youssef-ashraf-alagmaoy-3a7444302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">🔗</a> |
 
 ---
 
