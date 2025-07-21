@@ -1,4 +1,3 @@
-````markdown
 <!-- README Profile for Youssef Ashraf Abdelhamid -->
 
 <p align="left">
@@ -20,18 +19,18 @@
 
 ## 🔭 About Me
 
-- 🎓 **Student** of Computer Science at Nahda University (Class of 2028)
-- 🌱 Learning **Advanced AI**, **Deep Learning**, **Embedded Systems**
-- 💬 Ask me about **Python**, **C++**, **AI Integration**, **Web Dev (HTML & CSS)**
-- ⚡ Fun fact: I build console games and solve puzzles in my free time
+- 🎓 **Student** of Computer Science at Nahda University (Class of 2028)  
+- 🌱 Learning **Advanced AI**, **Deep Learning**, **Embedded Systems**  
+- 💬 Ask me about **Python**, **C++**, **AI Integration**, **Web Dev (HTML & CSS)**  
+- ⚡ Fun fact: I build console games and solve puzzles in my free time  
 
 ---
 
 ## 📫 Contact
 
-| Email                                          | LinkedIn                                 | Instagram                              |
-|-----------------------------------------------|-----------------------------------------|----------------------------------------|
-| <a href="mailto:yoa4068@gmail.com">📧</a>     | <a href="https://linkedin.com/in/yoa4068">🔗</a> | <a href="https://instagram.com/yoa4068">📷</a> |
+| Email                                    | LinkedIn                                  | Instagram                               |
+|------------------------------------------|-------------------------------------------|-----------------------------------------|
+| <a href="mailto:yoa4068@gmail.com">📧</a> | <a href="https://linkedin.com/in/yoa4068">🔗</a> | <a href="https://instagram.com/yoa4068">📷</a> |
 
 ---
 
@@ -64,16 +63,11 @@
 
 ## 🚀 Project Milestones
 
-```text
-# Milestone                 | Progress
----------------------------|---------
-01. Python Basics           | ██████████
-02. OOP & C++               | ████████□□
-03. AI Fundamentals         | █████□□□
-04. Embedded Linux          | ███□□□
-05. ROS2 & Robotics         | ██□□□
-06. Drone Integration       | □□□□
-````
-
-```
-```
+| Milestone             | Progress     |
+|-----------------------|--------------|
+| Python Basics         | ██████████   |
+| OOP & C++             | ████████□□   |
+| AI Fundamentals       | █████□□□     |
+| Embedded Linux        | ███□□□       |
+| ROS2 & Robotics       | ██□□□        |
+| Drone Integration     | □□□□         |
