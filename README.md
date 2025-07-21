@@ -46,14 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoa4068&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoa4068&theme=radical" alt="GitHub Streak">
-</p>
-
----
 
 ## 🏆 Achievements
 
